@@ -1,49 +1,58 @@
 #### 任务
 
-##### 掘金 nest系列看完,写完, nest官网大概读一遍. leetcode一天复习一题
+##### 掘金 nest 系列看完,写完, nest 官网大概读一遍. leetcode 一天复习一题
 
 [nuxt](https://v3.nuxtjs.org/guide/concepts/introduction)
-[掘金nest](https://juejin.cn/user/2313028194292925/posts)
-[nest官网](https://docs.nestjs.com/)
+[掘金 nest](https://juejin.cn/user/2313028194292925/posts)
+[nest 官网](https://docs.nestjs.com/)
 [leetcode](https://leetcode-cn.com/)
+[gitbook](https://git-scm.com/book/en/v2)
 
-+ 第一天
-  + [x] 掘金nest
-  + [x] 官网nest
-  + [ ] leetcode两题
-  + [ ] nuxt文档
-+ 第二天
-  + [ ] 掘金nest
-  + [ ] 官网nest
-  + [ ] leetcode两题
-  + [ ] nuxt文档
-+ 第三天
-  + [ ] 掘金nest
-  + [ ] 官网nest
-  + [ ] leetcode两题
-  + [ ] nuxt文档
-+ 第四天
-  + [ ] 掘金nest
-  + [ ] 官网nest
-  + [ ] leetcode两题
-  + [ ] nuxt文档
-+ 第五天
-  + [ ] 掘金nest
-  + [ ] 官网nest
-  + [ ] leetcode两题
-  + [ ] nuxt文档
-+ 第六天
-  + [ ] 掘金nest
-  + [ ] 官网nest
-  + [ ] leetcode两题
-  + [ ] nuxt文档
-+ 第七天
-  + [ ] 掘金nest
-  + [ ] 官网nest
-  + [ ] leetcode两题
-  + [ ] nuxt文档
-+ 第八天
-  + [ ] 掘金nest
-  + [ ] 官网nest
-  + [ ] leetcode两题
-  + [ ] nuxt文档
+- 第一天
+  - [x] 掘金 nest
+  - [x] 官网 nest
+  - [ ] leetcode 两题
+  - [ ] nuxt 文档
+  - [ ] gitbook 文档
+- 第二天
+  - [ ] 掘金 nest
+  - [ ] 官网 nest
+  - [ ] leetcode 两题
+  - [ ] nuxt 文档
+  - [ ] gitbook 文档
+- 第三天
+  - [ ] 掘金 nest
+  - [ ] 官网 nest
+  - [ ] leetcode 两题
+  - [ ] nuxt 文档
+  - [ ] gitbook 文档
+- 第四天
+  - [ ] 掘金 nest
+  - [ ] 官网 nest
+  - [ ] leetcode 两题
+  - [ ] nuxt 文档
+  - [ ] gitbook 文档
+- 第五天
+  - [ ] 掘金 nest
+  - [ ] 官网 nest
+  - [ ] leetcode 两题
+  - [ ] nuxt 文档
+  - [ ] gitbook 文档
+- 第六天
+  - [ ] 掘金 nest
+  - [ ] 官网 nest
+  - [ ] leetcode 两题
+  - [ ] nuxt 文档
+  - [ ] gitbook 文档
+- 第七天
+  - [ ] 掘金 nest
+  - [ ] 官网 nest
+  - [ ] leetcode 两题
+  - [ ] nuxt 文档
+  - [ ] gitbook 文档
+- 第八天
+  - [ ] 掘金 nest
+  - [ ] 官网 nest
+  - [ ] leetcode 两题
+  - [ ] nuxt 文档
+  - [ ] gitbook 文档

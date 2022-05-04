@@ -1,11 +1,4 @@
-import {
-  Controller,
-  Post,
-  Body,
-  HttpCode,
-  Header,
-  Redirect,
-} from '@nestjs/common';
+import { Controller, Post, Body } from '@nestjs/common';
 import { UserService } from './user.service';
 
 @Controller('user')
@@ -13,11 +6,12 @@ export class UserController {
   // 这里由nest帮助我们实例化 userService 之后就可以用this.userService来访问了.
   constructor(private readonly usersService: UserService) {}
 
-  @HttpCode(200)
-  @Header('Keep-Alive', 'timeout=10') // 自定义请求头
-  @Redirect('https://www.baidu.com', 301) // 重定向
+  // @HttpCode(200)
+  // @Header('Keep-Alive', 'timeout=10') // 自定义请求头
+  // @Redirect('https://www.baidu.com', 301) // 重定向
   @Post('find-one')
   findOne(@Body() body: any) {
+    console.log(body, '----');
     return this.usersService.findOne(body.username);
   }
 }

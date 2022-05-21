@@ -21,10 +21,10 @@
   - [x] nuxt 文档
   - [x] gitbook 文档
 - 第三天
-  - [ ] 掘金 nest
-  - [ ] 官网 nest
+  - [x] 掘金 nest
+  - [x] 官网 nest
   - [ ] leetcode 两题
-  - [ ] nuxt 文档
+  - [x] nuxt 文档
   - [ ] gitbook 文档
 - 第四天
   - [ ] 掘金 nest
